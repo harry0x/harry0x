@@ -2,46 +2,33 @@
 
 💻 Web Designer & React Native Developer
 
-I’m a developer focused on building modern web interfaces and mobile applications.  
-I enjoy working with React, React Native, and JavaScript, creating clean UI and responsive designs.
+I’m passionate about building modern websites and mobile applications using React and React Native.  
+I enjoy creating clean UI, responsive designs, and user-friendly mobile apps.
 
 ---
 
 ## 🚀 About Me
-- 📱 Building Android apps with React Native
-- 🌐 Designing responsive web interfaces
-- 🧠 Currently improving my skills in advanced React and mobile UI
-- ⚡ Interested in UI/UX, performance optimization, and modern frontend tools
+
+- 🔭 Working on React Native mobile apps
+- 🌱 Currently learning advanced React and modern frontend tools
+- 💡 Interested in UI/UX design and performance optimization
+- 📱 Building Android applications with React Native
+- ⚡ Love turning ideas into real products
 
 ---
 
-## 🛠️ Tech Stack
+## 📌 Current Focus
 
-Frontend
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
-- React  
-
-Mobile Development
-- React Native  
-
-Tools
-- Git  
-- GitHub  
-- VS Code  
-
----
-
-## 📌 What I’m Working On
-- Improving my React Native mobile apps
-- Creating modern web UI components
-- Building projects to strengthen my frontend development skills
+- Improving React Native mobile UI
+- Building reusable React components
+- Creating modern responsive web designs
 
 ---
 
 ## 📫 Contact Me
 
-📧 Email: [harry0xdev@gmail.com](mailto:harry0xdev@gmail.com)
+📧 Email: <a href="mailto:harry0xdev@gmail.com">harry0xdev@gmail.com</a>
+
+---
 
 ⭐ From Harry
