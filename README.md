@@ -42,8 +42,6 @@ Tools
 
 ## 📫 Contact Me
 
-📧 Email: harry0xdev@gmail.com
-
----
+📧 Email: [harry0xdev@gmail.com](mailto:harry0xdev@gmail.com)
 
 ⭐ From Harry
