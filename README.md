@@ -5,7 +5,7 @@
 I’m passionate about building modern websites and mobile applications using React and React Native.  
 I enjoy creating clean UI, responsive designs, and user-friendly mobile apps.
 
----
+----
 
 ## 🚀 About Me
 
@@ -15,7 +15,7 @@ I enjoy creating clean UI, responsive designs, and user-friendly mobile apps.
 - 📱 Building Android applications with React Native
 - ⚡ Love turning ideas into real products
 
----
+----
 
 ## 📌 Current Focus
 
@@ -23,12 +23,12 @@ I enjoy creating clean UI, responsive designs, and user-friendly mobile apps.
 - Building reusable React components
 - Creating modern responsive web designs
 
----
+----
 
 ## 📫 Contact Me
 
 📧 Email: <a href="mailto:harry0xdev@gmail.com">harry0xdev@gmail.com</a>
 
----
+----
 
 ⭐ From Harry
