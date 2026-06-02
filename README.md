@@ -27,7 +27,7 @@ I enjoy creating clean UI, responsive designs, and user-friendly mobile apps.
 
 ## 📫 Contact Me
 
-📧 Email: <a href="mailto:harry0xdev@gmail.com">harry0xdev@gmail.com</a>
+📧 Email: <a href="mailto:harilimba155@gmail.com">harry0xdev@gmail.com</a>
 
 ----
 
