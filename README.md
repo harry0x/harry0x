@@ -1,5 +1,1 @@
-- 👋 Hi, I'm @harry0x
-- 👀 I'm interested in building web apps and mobile applications
-- 🌱 I'm currently working with React Native, Node.js, and Laravel
-- 💞️ I'm looking to collaborate on full stack or mobile app projects — I enjoy crafting clean UI and turning ideas into real, working products
-- 📫 How to reach me ... harilimba155@gmail.com
+
